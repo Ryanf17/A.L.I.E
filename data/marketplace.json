@@ -1,1 +1,15 @@
+{
+  "item_id_001": {
+    "seller_id": "123456789012345678",
+    "item_name": "XP Booster (1 hour)",
+    "price": 200,
+    "quantity": 5
+  },
+  "item_id_002": {
+    "seller_id": "987654321098765432",
+    "item_name": "Lore Puzzle Piece",
+    "price": 400,
+    "quantity": 1
+  }
+}
 
