@@ -1,1 +1,6 @@
+{
+  "Custom Greeting Message": {"stock": 10, "out_of_stock": false, "gift_only": false},
+  "XP Booster (1 hour)": {"stock": 50, "out_of_stock": false, "gift_only": false},
+  "Echo Lottery Ticket": {"stock": -1, "out_of_stock": false, "gift_only": false}
+}
 
